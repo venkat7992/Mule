@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<mule xmlns:tracking="http://www.mulesoft.org/schema/mule/ee/tracking" xmlns:db="http://www.mulesoft.org/schema/mule/db" xmlns:dw="http://www.mulesoft.org/schema/mule/ee/dw" xmlns:metadata="http://www.mulesoft.org/schema/mule/metadata" xmlns:http="http://www.mulesoft.org/schema/mule/http" xmlns="http://www.mulesoft.org/schema/mule/core" xmlns:doc="http://www.mulesoft.org/schema/mule/documentation"
+	xmlns:spring="http://www.springframework.org/schema/beans" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-current.xsd
+http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd
+http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/http/current/mule-http.xsd
+http://www.mulesoft.org/schema/mule/ee/dw http://www.mulesoft.org/schema/mule/ee/dw/current/dw.xsd
+http://www.mulesoft.org/schema/mule/db http://www.mulesoft.org/schema/mule/db/current/mule-db.xsd
+http://www.mulesoft.org/schema/mule/ee/tracking http://www.mulesoft.org/schema/mule/ee/tracking/current/mule-tracking-ee.xsd">
+    <http:listener-config name="HTTP_Listener_Configuration" host="0.0.0.0" port="8081" doc:name="HTTP Listener Configuration"/>
+    <db:generic-config name="Integration_DB_Config" url="jdbc:sqlserver://localhost:1433;DatabaseName=INexus;User=venkat;Password=Welcome@123456" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" doc:name="Generic Database Configuration"/>
+    <flow name="xml2javaandbulkinsertFlow">
+        <http:listener config-ref="HTTP_Listener_Configuration" path="/bulk" doc:name="HTTP"/>
+        <logger message="payload-----------------------------------------#[#[xpath3('//*:FinEntryLine',payload,&quot;NODE&quot;) != null]] = true when finentry tag exist else false-----------------------------------" level="INFO" doc:name="Logger"/>
+        <choice doc:name="Choice">
+            <when expression="#[#[xpath3('//*:FinEntryLine',payload,&quot;NODE&quot;) != null]]">
+                <dw:transform-message doc:name="Transform Message" metadata:id="55d93f0b-eb20-439d-bfd8-be3f55acd268">
+                    <dw:input-payload doc:sample="C:\Users\venkatesan.manoharan\Desktop\Request.xml" mimeType="application/xml"/>
+                    <dw:set-payload><![CDATA[%dw 1.0
+%output application/java
+---
+ payload.eExact.GLEntries.GLEntry.*FinEntryLine map (FinEntryLine) -> {
+     FinEntryLine : FinEntryLine.@number,
+     Description: FinEntryLine.Description,
+     Date: FinEntryLine.Date,
+     GLAccount: FinEntryLine.GLAccount.@code,
+     Costcenter: FinEntryLine.Costcenter.@code,
+     Costunit: FinEntryLine.Costunit.@code,
+     Creditor: FinEntryLine.Creditor.@code,
+     Debit: FinEntryLine.Amount.Debit,
+     FreeText: FinEntryLine.FreeFields.FreeTexts.*FreeText map (FreeText) ->{
+					"@number": FreeText.@number as :string,
+					FreeText: FreeText
+				}
+}]]></dw:set-payload>
+                </dw:transform-message>
+                <logger message="payload---------------------&gt; #[payload] -------------------" level="INFO" doc:name="Logger"/>
+                <db:insert config-ref="Integration_DB_Config" bulkMode="true" doc:name="Database">
+                    <db:parameterized-query><![CDATA[INSERT INTO Test1(finentryline_number, description,date,glaccount_code,
+                costcenter_code,costunit_code,creditor_code,debit_amount,freetext_1,
+                freetext_2)
+                 VALUES
+                 ( 
+                 #[payload.FinEntryLine],
+                 #[payload.Description],
+                 #[payload.Date],
+                 #[payload.GLAccount],
+                 #[payload.Costcenter],
+                 #[payload.Costunit],
+                 #[payload.Creditor],
+                 #[payload.Debit],
+                 #[payload.FreeText[0].FreeText],
+                 #[payload.FreeText[1].FreeText]
+				)]]></db:parameterized-query>
+                </db:insert>
+                <logger message="#[payload] - After DB insert" level="INFO" doc:name="Logger"/>
+            </when>
+            <otherwise>
+                <logger message="There are no finentries to be stored in database" level="INFO" doc:name="Logger"/>
+            </otherwise>
+        </choice>
+
+    </flow>
+</mule>

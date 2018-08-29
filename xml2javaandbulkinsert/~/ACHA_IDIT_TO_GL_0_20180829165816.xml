@@ -1,0 +1,1684 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<eExact>
+  <GLEntries>
+    <GLEntry status="E" entry="18410086">
+      <DocumentDate>31082018</DocumentDate>
+      <Description>GWGeneralLedgerPostings</Description>
+      <Journal code="41" type="M"></Journal>
+      
+
+  <FinEntryLine number="1" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="81112210"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-5.66</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="2" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="07111040"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>5.66</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">198</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="3" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="81112605"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-0.57</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="4" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="07111505"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.57</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">198</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="5" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="81112210"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-4.81</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="6" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="07111040"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>4.81</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">198</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="7" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="81112605"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-0.48</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="8" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="07111505"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.48</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">198</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="9" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="81112210"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.73</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="10" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="07111040"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-0.73</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">200</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="11" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="81112605"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.07</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="12" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="07111505"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-0.07</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">200</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="13" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="81112210"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.62</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="14" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="07111040"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-0.62</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">200</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="15" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="81112605"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.06</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="16" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="07111505"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-0.06</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">200</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="17" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="10190240"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code=""></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>6.23</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="18" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="80100705"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-0.57</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="19" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="80100010"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-5.66</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="20" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="10190240"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code=""></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>5.29</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="21" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="80100705"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-0.48</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="22" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="80100010"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-4.81</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="23" type="N" subtype="N">
+    <Description>29082018 GWPC 4533865982</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="10190240"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code=""></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>473.21</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="24" type="N" subtype="N">
+    <Description>29082018 GWPC 4533865982</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="80100705"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-43.02</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="25" type="N" subtype="N">
+    <Description>29082018 GWPC 4533865982</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="80100010"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-430.19</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="26" type="N" subtype="N">
+    <Description>29082018 GWPC 4533865982</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="81112210"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>23.34</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="27" type="N" subtype="N">
+    <Description>29082018 GWPC 4533865982</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="07111040"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-23.34</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">200</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="28" type="N" subtype="N">
+    <Description>29082018 GWPC 4533865982</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="81112605"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>2.33</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="29" type="N" subtype="N">
+    <Description>29082018 GWPC 4533865982</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="07111505"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-2.33</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">200</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="30" type="N" subtype="N">
+    <Description>29082018 GWPC 4533865982</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="81112210"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-430.19</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="31" type="N" subtype="N">
+    <Description>29082018 GWPC 4533865982</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="07111040"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>430.19</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">198</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="32" type="N" subtype="N">
+    <Description>29082018 GWPC 4533865982</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="81112605"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-43.02</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="33" type="N" subtype="N">
+    <Description>29082018 GWPC 4533865982</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="07111505"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>43.02</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">198</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="34" type="N" subtype="N">
+    <Description>29082018 GWPC 6016827121</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="81112210"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-63.83</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="35" type="N" subtype="N">
+    <Description>29082018 GWPC 6016827121</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="07111040"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>63.83</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">198</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="36" type="N" subtype="N">
+    <Description>29082018 GWPC 6016827121</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="81112605"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-6.38</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="37" type="N" subtype="N">
+    <Description>29082018 GWPC 6016827121</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="07111505"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>6.38</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">198</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="38" type="N" subtype="N">
+    <Description>29082018 GWPC 6016827121</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="81112210"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>4.84</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="39" type="N" subtype="N">
+    <Description>29082018 GWPC 6016827121</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="07111040"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-4.84</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">200</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="40" type="N" subtype="N">
+    <Description>29082018 GWPC 6016827121</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="81112605"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.48</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="41" type="N" subtype="N">
+    <Description>29082018 GWPC 6016827121</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="07111505"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-0.48</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">200</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="42" type="N" subtype="N">
+    <Description>29082018 GWPC 6016827121</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="10190240"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code=""></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>70.21</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="43" type="N" subtype="N">
+    <Description>29082018 GWPC 6016827121</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="80100705"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-6.38</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="44" type="N" subtype="N">
+    <Description>29082018 GWPC 6016827121</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="80100010"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-63.83</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="45" type="N" subtype="N">
+    <Description>29082018 GWPC 6142127351</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="10190240"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code=""></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.00</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="46" type="N" subtype="N">
+    <Description>29082018 GWPC 6142127351</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="80100705"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.00</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="47" type="N" subtype="N">
+    <Description>29082018 GWPC 6142127351</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="80100010"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.00</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="48" type="N" subtype="N">
+    <Description>29082018 GWPC 6142127351</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="81112210"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.00</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="49" type="N" subtype="N">
+    <Description>29082018 GWPC 6142127351</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="07111040"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.00</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">200</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="50" type="N" subtype="N">
+    <Description>29082018 GWPC 6142127351</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="81112605"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.00</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="51" type="N" subtype="N">
+    <Description>29082018 GWPC 6142127351</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="07111505"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.00</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">200</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="52" type="N" subtype="N">
+    <Description>29082018 GWPC 6142127351</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="81112210"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.00</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="53" type="N" subtype="N">
+    <Description>29082018 GWPC 6142127351</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="07111040"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.00</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">198</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="54" type="N" subtype="N">
+    <Description>29082018 GWPC 6142127351</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="81112605"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.00</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="55" type="N" subtype="N">
+    <Description>29082018 GWPC 6142127351</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="07111505"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.00</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">198</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="56" type="N" subtype="N">
+    <Description>29082018 GWBC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="82010010"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Creditor code="150"></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.30</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="57" type="N" subtype="N">
+    <Description>29082018 GWBC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="13917032"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code=""></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-0.30</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="58" type="N" subtype="N">
+    <Description>29082018 GWBC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="12300080"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.30</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">198</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="59" type="N" subtype="N">
+    <Description>29082018 GWBC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="82010050"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Creditor code="150"></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-0.30</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="60" type="N" subtype="N">
+    <Description>29082018 GWBC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="82010010"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Creditor code="150"></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.25</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="61" type="N" subtype="N">
+    <Description>29082018 GWBC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="13917032"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code=""></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-0.25</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="62" type="N" subtype="N">
+    <Description>29082018 GWBC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="12300080"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.25</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">198</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="63" type="N" subtype="N">
+    <Description>29082018 GWBC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="82010050"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Creditor code="150"></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-0.25</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="64" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="12300080"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-0.04</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">200</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="65" type="N" subtype="N">
+    <Description>29082018 GWBC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="82010050"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Creditor code="150"></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.04</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="66" type="N" subtype="N">
+    <Description>29082018 GWPC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="12300080"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-0.03</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">200</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="67" type="N" subtype="N">
+    <Description>29082018 GWBC 3097822236</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="82010050"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000000"></Costunit>
+    <Creditor code="150"></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.03</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="68" type="N" subtype="N">
+    <Description>29082018 GWBC 4533865982</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="82010010"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Creditor code="150"></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>20.48</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="69" type="N" subtype="N">
+    <Description>29082018 GWBC 4533865982</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="13917032"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code=""></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-20.48</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="70" type="N" subtype="N">
+    <Description>29082018 GWBC 4533865982</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="12300080"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>20.48</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">198</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="71" type="N" subtype="N">
+    <Description>29082018 GWBC 4533865982</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="82010050"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Creditor code="150"></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-20.48</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="72" type="N" subtype="N">
+    <Description>29082018 GWPC 4533865982</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="12300080"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-1.11</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">200</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="73" type="N" subtype="N">
+    <Description>29082018 GWBC 4533865982</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="82010050"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Creditor code="150"></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>1.11</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="74" type="N" subtype="N">
+    <Description>29082018 GWPC 6016827121</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="12300080"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-0.23</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">200</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="75" type="N" subtype="N">
+    <Description>29082018 GWBC 6016827121</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="82010050"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Creditor code="150"></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.23</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="76" type="N" subtype="N">
+    <Description>29082018 GWBC 6016827121</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="82010010"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Creditor code="150"></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>3.05</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="77" type="N" subtype="N">
+    <Description>29082018 GWBC 6016827121</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="13917032"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code=""></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-3.05</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="78" type="N" subtype="N">
+    <Description>29082018 GWBC 6016827121</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="12300080"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>3.05</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">198</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="79" type="N" subtype="N">
+    <Description>29082018 GWBC 6016827121</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="82010050"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Creditor code="150"></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-3.05</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="80" type="N" subtype="N">
+    <Description>29082018 GWBC 6142127351</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="82010010"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Creditor code="150"></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.00</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="81" type="N" subtype="N">
+    <Description>29082018 GWBC 6142127351</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="13917032"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code=""></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.00</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="82" type="N" subtype="N">
+    <Description>29082018 GWBC 6142127351</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="12300080"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.00</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">198</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="83" type="N" subtype="N">
+    <Description>29082018 GWBC 6142127351</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="82010050"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Creditor code="150"></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.00</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="84" type="N" subtype="N">
+    <Description>29082018 GWPC 6142127351</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="12300080"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>0.01</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1">200</FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="85" type="N" subtype="N">
+    <Description>29082018 GWBC 6142127351</Description>
+    <Date>2018-08-31</Date>
+    <GLAccount code="82010050"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code="28000050"></Costunit>
+    <Creditor code="150"></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-0.01</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="86" type="N" subtype="N">
+    <Date>2018-08-31</Date>
+    <Description>14082018 GWBC 3097822236</Description>
+    <GLAccount code="10100108"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code=""></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>6.99</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="87" type="N" subtype="N">
+    <Date>2018-08-31</Date>
+    <Description>14082018 GWBC 3097822236</Description>
+    <GLAccount code="13923330"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code=""></Costunit>
+    <Creditor code="101"></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-0.64</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="88" type="N" subtype="N">
+    <Date>2018-08-31</Date>
+    <Description>14082018 GWBC 3097822236</Description>
+    <GLAccount code="13923001"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code=""></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-0.58</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="89" type="N" subtype="N">
+    <Date>2018-08-31</Date>
+    <Description>14082018 GWBC 3097822236</Description>
+    <GLAccount code="10190240"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code=""></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-5.77</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+
+  <FinEntryLine number="90" type="N" subtype="N">
+    <Date>2018-08-31</Date>
+    <Description>23082018 GWBC 6016827121</Description>
+    <GLAccount code="10100108"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code=""></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>84.95</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="91" type="N" subtype="N">
+    <Date>2018-08-31</Date>
+    <Description>23082018 GWBC 6016827121</Description>
+    <GLAccount code="13923330"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code=""></Costunit>
+    <Creditor code="101"></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-7.72</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="92" type="N" subtype="N">
+    <Date>2018-08-31</Date>
+    <Description>23082018 GWBC 6016827121</Description>
+    <GLAccount code="13923001"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code=""></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-7.02</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+  <FinEntryLine number="93" type="N" subtype="N">
+    <Date>2018-08-31</Date>
+    <Description>23082018 GWBC 6016827121</Description>
+    <GLAccount code="10190240"></GLAccount>
+    <Costcenter code=""></Costcenter>
+    <Costunit code=""></Costunit>
+    <Creditor code=""></Creditor>
+    <Amount>
+      <Currency code="AUD"></Currency>
+      <Debit>-70.21</Debit>
+    </Amount>
+    <FreeFields>
+      <FreeTexts>
+        <FreeText number="1"></FreeText>
+        <FreeText number="2"></FreeText>
+      </FreeTexts>
+    </FreeFields>
+  </FinEntryLine>
+
+    </GLEntry>
+  </GLEntries>
+</eExact>
